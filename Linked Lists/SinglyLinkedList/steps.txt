@@ -1,0 +1,5 @@
+steps to create a singly linked list
+
+1. Create Head and Tail,initialize with null
+2. Create a blank node and assign a value to it and reference to null
+3. Link Head and tail with these node

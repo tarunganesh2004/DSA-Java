@@ -1,0 +1,1 @@
+Circular singly linked list is a singly linked list in which last node reference points to first node(not null)
